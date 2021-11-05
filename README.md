@@ -5,7 +5,7 @@
 -----
 
 -  အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
-[![](1.png)version 0.117](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
+[![](x.png)version 0.117](https://drive.google.com/uc?export=download&id=19VycS90NijIR1u_KYTumRJDu4c2xKK7P)
 --------
 ##  Service Accounts မလုပ်တက်ရင် ​အောက်ကနည်းအတိုင်းပြုလုပ်ပါ
 <details>
