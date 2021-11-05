@@ -172,7 +172,7 @@ mv rclone.conf /sdcard/MyTermux/Telegram-TorrentLeech
 
 -  APP_ID ​နေရာမှာ [my.telegram.org](my.telegram.org)မှာ loginဝင်ပြီးAPI developments tools ထဲက App api_id ကိုcopy လုပ်ပြီးဖြည့်ပါ ပြီးရင်App api_hashကို copyလုပ်ပြီး API_HASH ​နေရာမှာဖြည့်လိုက်ပါ
 
--  OWNER_ID ​နေရာမှာ [MissRose_bot](https://t.me/MissRose_bot)မှာ/idလို့ ပို့လိုက် idကျလာရင် idကို copy လုပ်ပီးဖြည့်လိုက်
+-  OWNER_ID ​နေရာမှာ [MissRose_bot](https://t.me/MissRose_bot)မှာ/idလို့ ပို့လိုက် idကျလာရင် idကို copy လုပ်ပီးဖြည့်
 
 -  AUTH_CHANNEL ​နေရာမှာ group id ဖြည့်
 </details>
