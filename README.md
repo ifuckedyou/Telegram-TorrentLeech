@@ -106,6 +106,24 @@ npm install -g http-server
 ```
 mkdir /sdcard/MyTermux/ -p
 ```
+<summary><b>rclone config လုပ်နည်း</b></summary>
+```
+pkg install python
+```
+```
+pkg install rclone
+```
+```
+
+
+
+
+
+
+
+
+
+
 ```
 cd /sdcard/MyTermux
 ```
