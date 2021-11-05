@@ -178,30 +178,30 @@ mv rclone.conf /sdcard/MyTermux/Telegram-TorrentLeech
 </details>
 
 <details>
-    <summary><b>rclone.conf</b></summary>
-Rclone.conf ဖိုင်မှာ ပြင်ရမှာရှိပါတယ်
-အောက်ကနမူနာလိုပြင်ပါ
+    <summary><b>rclone.confတန်ဖိုး ပြင်ဆင်သတ်မှတ်နည်း</b></summary>
 
-[sampleGdrive]
+[Gdrive]
 
 type = drive
 
 scope = drive
 
-token = {"oq"2#######06:30"}
+token = {"အရှိတိုင်းထားပါ"}
 
-team_drive = 0AIa########PVA
+team_drive = shared drive idဖြည့်
 
 service_account_file = accounts/1.json
 
 service_account_file_path = accounts/
 
-root_folder_id = 142Mrd#########aMs
+root_folder_id = မိမိသိမ်းချင်တဲ့ folder idဖြည့်
 
 </details>
 
+[`အာလုံးပြီးရင်`](#)
+
 ```
-cd Telegram-TorrentLeech
+cd /sdcard/MyTermux/Telegram-TorrentLeech
 ```
 ```
 heroku login
