@@ -1,4 +1,4 @@
- #  androidဖုန််းသုံးပြီး slam-mirrorbot လုပ်နည်း
+ #  androidဖုန််းသုံးပြီး Telegram-TorrentLeech bot လုပ်နည်း
 
 ## Guide:
 -  YouTube Link:[Tutorial video](https://youtu.be/vCj3_kufRCc)
@@ -74,7 +74,7 @@ python3 emails.py
    [Create Service Accounts](https://github.com/phoethar1/service-accounts)
 
 --------
-slam-mirrorbot လုပ်နည်း
+Telegram-TorrentLeech bot လုပ်နည်း
 ----------
 ```
 termux-setup-storage
