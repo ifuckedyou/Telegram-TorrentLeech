@@ -151,6 +151,9 @@ q
 ```
 cd /data/data/com.termux/files/home/.config/rclone
 ```
+```
+mv rclone.conf /sdcard/MyTermux/Telegram-TorrentLeech
+```
 
 
 
