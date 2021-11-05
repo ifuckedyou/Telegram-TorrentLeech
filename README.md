@@ -134,7 +134,8 @@ n
 name>     ​`နေရာမှာ ` gdrive
 
 
-storage>  `​နေရာမှာ google drive နံပါတ် ကို​ရွှေး no.15 မှာရှိတက်တယ်` 15
+storage>  `​နေရာမှာ google drive နံပါတ် ကို​ရွှေး / Google Drive
+   \ "drive" လို့ပြထားတဲ့ နံပါတ်ကို ရိုက်ပါ` ဥပမာ 16 ပြရင် 16 လို့ရိုက်ပါ
 
 
 scope> ​  ` နေရာမှာ `1
@@ -146,6 +147,9 @@ scope> ​  ` နေရာမှာ `1
 အာလုံးပြီးရင်
 ```
 q
+```
+```
+cd /data/data/com.termux/files/home/.config/rclone
 ```
 
 
