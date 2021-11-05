@@ -106,17 +106,31 @@ npm install -g http-server
 ```
 mkdir /sdcard/MyTermux/ -p
 ```
+```
+cd /sdcard/MyTermux
+```
+```
+git clone https://github.com/phoethar1/Telegram-TorrentLeech
+```
 
 <details>
     <summary><b>rclone config လုပ်နည်း</b></summary>
 
-
+```
+cd
+```
 ```
 pkg install python
 ```
 ```
 pkg install rclone
 ```
+```
+rclone config
+```
+
+
+
 
 </details>
 
@@ -125,18 +139,10 @@ pkg install rclone
 
 
 
+ပြီးရင်
 
-
-
-
-```
-cd /sdcard/MyTermux
-```
-```
-git clone https://github.com/phoethar1/Telegram-TorrentLeech
-```
-[`မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderကို Telegram-TorrentLeechဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
-ပြီးရင် Telegram-TorrentLeech folderထဲက config.envကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`](#)
+`မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderကို Telegram-TorrentLeechဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
+ပြီးရင် Telegram-TorrentLeech folderထဲက config.envကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`
 
 --------
 -  confing.env ဖွင့်မရရင် ​[ဒီLINK က app](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.rhmsoft.edit%26hl%3Dmy%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dquickedit%26pcampaignid%3DAPPU_1_ovhvYZL5C4e6qtsP5cWDsA4&ved=2ahUKEwiS0uPc7NjzAhUHnWoFHeXiAOYQ5YQBegQIBhAC&sqi=2&usg=AOvVaw1CNFUinhUrTrs3FLQFv64Q)ကိုdownloadလုပ် ပြီးရင်confing.env.txt​ ခန name changeလိုက် ဖြည့်စရာဖြည့်ပြီးရင် နဂို name (config.env )rename ပြန်လုပ်
@@ -173,9 +179,6 @@ git commit -m "Telegram-TorrentLeech"
 ```
 git push heroku main
 ```
-
-
-
 
 
 
@@ -493,3 +496,4 @@ You can add a custom name as it's prefix to the file. Example: if gk.txt uploade
   - [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
   - [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
   - [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
+
