@@ -189,13 +189,15 @@ scope = drive
 token = {"အရှိတိုင်းထားပါ"}
 
 team_drive = shared drive idဖြည့်
-
+```
 service_account_file = accounts/1.json
-
+```
+```
 service_account_file_path = accounts/
-
+```
+```
 root_folder_id = မိမိသိမ်းချင်တဲ့shared drive folder idဖြည့်
-
+```
 </details>
 
 [`အာလုံးပြီးရင်`](#)
