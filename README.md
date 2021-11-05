@@ -134,7 +134,7 @@ git clone https://github.com/phoethar1/Telegram-TorrentLeech
 
 
 ```
-cd slam-mirror
+cd Telegram-TorrentLeech
 ```
 ```
 heroku login
@@ -152,7 +152,7 @@ heroku stack:set container
 git add *
 ```
 ```
-git commit -m "slam-mirror"
+git commit -m "Telegram-TorrentLeech"
 ```
 ```
 git push heroku main
