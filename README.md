@@ -155,20 +155,8 @@ cd /data/data/com.termux/files/home/.config/rclone
 mv rclone.conf /sdcard/MyTermux/Telegram-TorrentLeech
 ```
 
-
-
-
-
-
-
 </details>
 
-
-
-
-
-
-ပြီးရင်
 
 `မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderကို Telegram-TorrentLeechဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
 ပြီးရင် Telegram-TorrentLeech folderထဲက config.env နှင့် rclone.conf ကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`
@@ -189,6 +177,28 @@ mv rclone.conf /sdcard/MyTermux/Telegram-TorrentLeech
 -  AUTH_CHANNEL ​နေရာမှာ group id ဖြည့်
 </details>
 
+<details>
+    <summary><b>rclone.conf</b></summary>
+Rclone.conf ဖိုင်မှာ ပြင်ရမှာရှိပါတယ်
+အောက်ကနမူနာလိုပြင်ပါ
+
+[sampleGdrive]
+
+type = drive
+
+scope = drive
+
+token = {"oq"2#######06:30"}
+
+team_drive = 0AIa########PVA
+
+service_account_file = accounts/1.json
+
+service_account_file_path = accounts/
+
+root_folder_id = 142Mrd#########aMs
+
+</details>
 
 ```
 cd Telegram-TorrentLeech
@@ -215,18 +225,7 @@ git commit -m "Telegram-TorrentLeech"
 git push heroku main
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
+🏃🏃🏃
 
 
 <details>
