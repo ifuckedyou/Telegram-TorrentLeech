@@ -120,12 +120,11 @@ git clone https://github.com/phoethar1/Telegram-TorrentLeech
 --------
 -  TG_BOT_TOKEN ​နေရာမှာ [BotFather](https://t.me/BotFather)က​နေToken ယူပြီးဖြည့်
 
--  TELEGRAM_API ​နေရာမှာ [my.telegram.org](my.telegram.org)မှာ loginဝင်ပြီးAPI developments tools ထဲက App api_id ကိုcopy လုပ်ပြီးဖြည့်ပါ ပြီးရင်App api_hashကို copyလုပ်ပြီး TELEGRAM_HASH ​နေရာမှာဖြည့်လိုက်ပါ
+-  APP_ID ​နေရာမှာ [my.telegram.org](my.telegram.org)မှာ loginဝင်ပြီးAPI developments tools ထဲက App api_id ကိုcopy လုပ်ပြီးဖြည့်ပါ ပြီးရင်App api_hashကို copyလုပ်ပြီး API_HASH ​နေရာမှာဖြည့်လိုက်ပါ
 
 -  OWNER_ID ​နေရာမှာ [MissRose_bot](https://t.me/MissRose_bot)မှာ/idလို့ ပို့လိုက် idကျလာရင် idကို copy လုပ်ပီးဖြည့်လိုက်
 
--  AUTH_CHANNEL ​နေရာမှာ -1
-
+-  AUTH_CHANNEL ​နေရာမှာ group id ဖြည့်
 
 ```
 cd Telegram-TorrentLeech
