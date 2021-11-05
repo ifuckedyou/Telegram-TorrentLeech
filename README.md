@@ -131,16 +131,23 @@ rclone config
 ```
 n
 ```
-name>     ​နေရာမှာ gdrive
-storage>  ​နေရာမှာ google drive နံပါတ် ကို​ရွှေး no.15 မှာရှိတက်တယ် 15
-scope> ​   နေရာမှာ 1
+name>     ​`နေရာမှာ ` gdrive
 
 
-setting everything default by pressing enter key
+storage>  `​နေရာမှာ google drive နံပါတ် ကို​ရွှေး no.15 မှာရှိတက်တယ်` 15
+
+
+scope> ​  ` နေရာမှာ `1
+
+
+`setting everything default by pressing enter key`
+
+
 အာလုံးပြီးရင်
 ```
 q
 ```
+
 
 
 
