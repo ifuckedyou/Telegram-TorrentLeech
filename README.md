@@ -157,7 +157,7 @@ mv rclone.conf /sdcard/MyTermux/Telegram-TorrentLeech
 
 </details>
 
-
+--------
 `မိမိဖုန်းfile manager ထဲက MyTermuxဆိုတဲ့ folder ထဲဝင် service-accountsဆိုတဲ့ folderထဲက accounts folderကို Telegram-TorrentLeechဆိုတဲ့ folderထဲမှာ copy လုပ်ပြီးထည့် 
 ပြီးရင် Telegram-TorrentLeech folderထဲက config.env နှင့် rclone.conf ကို ဖွင့်ပြီး မိမိ account နဲ သက်ဆိုင်တဲ့ တန်ဖိုးကို ပြင်ဆင်သတ်မှတ်ပါ`
 
