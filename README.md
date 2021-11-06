@@ -1,7 +1,7 @@
  #  androidဖုန််းသုံးပြီး Telegram-TorrentLeech bot လုပ်နည်း
 
 ## Guide:
--  YouTube Link:[Tutorial video](https://youtu.be/vCj3_kufRCc)
+-  YouTube Link:[Tutorial video](https://youtu.be/MBDiwHGyp-k)
 -----
 
 -  အရင်ဆုံး Termux ကို မိမိဖုန်းထဲ install လုပ်ပါ။Termux ကို ​အောက်ကပုံ နိပ်ပြီး downloadလုပ်ပါ
