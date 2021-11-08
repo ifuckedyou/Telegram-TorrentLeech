@@ -220,6 +220,7 @@ git commit -m "Telegram-TorrentLeech"
 ```
 git push heroku main
 ```
+<p><a href="https://heroku.com/deploy?template=https://github.com/phoethar1/Telegram-TorrentLeech"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 🏃🏃🏃
 
